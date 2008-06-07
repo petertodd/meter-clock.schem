@@ -15,7 +15,7 @@ device=CONNECTOR_2
 T 47150 46000 5 10 0 0 90 0 1
 footprint=CONNECTOR 2 1
 T 48600 45700 5 10 0 0 90 0 1
-part=A30770-ND
+digikey=A30770-ND
 }
 C 49700 44400 1 90 0 resistor-variable-bourns.sym
 {
@@ -55,7 +55,7 @@ device=CONNECTOR_2
 T 47150 42400 5 10 0 0 90 0 1
 footprint=CONNECTOR 2 1
 T 48600 42100 5 10 0 0 90 0 1
-part=A30770-ND
+digikey=A30770-ND
 }
 C 49700 40800 1 90 0 resistor-variable-bourns.sym
 {
@@ -95,7 +95,7 @@ device=CONNECTOR_2
 T 47150 38800 5 10 0 0 90 0 1
 footprint=CONNECTOR 2 1
 T 48600 38500 5 10 0 0 90 0 1
-part=A30770-ND
+digikey=A30770-ND
 }
 C 49700 37200 1 90 0 resistor-variable-bourns.sym
 {
